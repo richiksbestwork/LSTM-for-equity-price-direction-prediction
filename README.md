@@ -6,4 +6,4 @@
 
 - Price Prediction (Regression) using LSTM
 
-Both models were trained on approximately 3,000 daily observations (2010–2025), using technical indicators like moving averages, volatility, and returns.</h4>
+Both models were trained on approximately 3,000 observations (2010–2025).</h4>
